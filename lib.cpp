@@ -1,4 +1,5 @@
 
+
 #include "lib.h"
 
 bool funzione(char a[10][20], char b[20], int &pos) {
